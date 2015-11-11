@@ -1,0 +1,25 @@
+{
+  "name": "br-checkbox-group",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bed-rock/br-checkbox-group",
+  "authors": [
+    "cbfranca <cleidsonbf@gmail.com>"
+  ],
+  "description": "",
+  "main": "br-checkbox-group.html",
+  "moduleType": [],
+  "keywords": [
+    "bedrock.radiobutton",
+    "bedrock.radiogroup",
+    "webcomponent",
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
